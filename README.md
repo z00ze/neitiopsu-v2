@@ -6,8 +6,7 @@ Data visualisation for Nettiopsu
 
 ## Finnish report of the project
 
-Neitiopsu
-Kurssien yhteenvetojen datavisualisointi palvelu opiskelijoille
+Neitiopsu - Kurssien yhteenvetojen datavisualisointi palvelu opiskelijoille
 
 Turun Yliopisto
 Projekti II-kurssi
