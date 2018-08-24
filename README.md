@@ -34,3 +34,6 @@ Loppukäyttäjän sivuston luominen oli helppoa, koska kaikki käytössä olevat
 ### Jatkokehitys
 
 Sivusto on jatkokehittävissä monipuolisemmaksi käytettävien menetelmien ansiosta. Tärkein jatkokehitys kohde olisi kaikkien Turun Yliopiston kurssien lisääminen tietokantaan joko hitaasti nykyisellä menetelmällä tai saamalla Nettiopsun tietokannasta tarvittavat datat.
+
+_Notice:
+The file which fetch the data from Nettiopsu system is not here for safety reasons..._
