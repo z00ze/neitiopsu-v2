@@ -18,7 +18,6 @@ class neitiApi(object):
 
     @cherrypy.expose
     def POST(self, var = None):
-        #print(json.loads(cherrypy.request.body.read().decode('utf-8'))['courseid'])
         if(var == 'getGradesByCourseId'):
             return json.dumps(db.getGradesByCourseId(json.loads(cherrypy.request.body.read().decode('utf-8'))['courseid']), indent=4, sort_keys=True, default=str)
 
