@@ -1,2 +1,2 @@
-# Neitiopsu
-## Data visualisation for Neitiopsu
+## Neitiopsu
+Data visualisation for Nettiopsu
