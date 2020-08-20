@@ -2,7 +2,7 @@ import mysql.connector
 import datetime
 
 #MYSQL DATA
-cnx = mysql.connector.connect(user='neitiopsu', database='neitiopsu', password='1337Neiti1337!!')
+cnx = mysql.connector.connect(user='', database='', password='')
 cursor = cnx.cursor(buffered=True)
 
 #BASIC QUERIES
